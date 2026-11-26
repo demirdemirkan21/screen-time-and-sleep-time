@@ -1,2 +1,2 @@
-# covid-19-turkey-analysis
-Analyzing COVID-19 cases, deaths, and vaccination trends in Turkey.
+# screen-time-and-sleep-time
+Analyzing the Relationship Between My Screen Time and Sleep Duration
